@@ -1,7 +1,7 @@
 # Job Recommendation System 
 ___________________________
 
-AI Predicts your job depending on your insights 
+               AI Predicts your job depending on your insights 
 
 ____________________________
 
