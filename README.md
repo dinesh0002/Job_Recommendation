@@ -5,6 +5,8 @@ ___________________________
 AI Predicts your job depending on your insights 
 ____________________________
 
+Table of Content 
+
 ## Data Scrapping 
 1) Webiste : https://in.indeed.com
 
